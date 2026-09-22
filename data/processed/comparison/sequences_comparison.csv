@@ -1,0 +1,9 @@
+sample_id,matching_fields,total_fields,all_fields_match,differing_fields
+sample_001,7,7,True,
+sample_002,7,7,True,
+sample_003,7,7,True,
+sample_004,7,7,True,
+sample_005,7,7,True,
+sample_006,7,7,True,
+sample_007,7,7,True,
+sample_008,7,7,True,
